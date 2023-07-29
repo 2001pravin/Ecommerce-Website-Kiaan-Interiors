@@ -1,0 +1,41 @@
+.samples{
+  flex-direction: column;
+      text-align: center;
+     background-color: #e4dcdc;  }
+    
+.featured{
+    
+    width: 100%;
+    
+    display: grid;
+    
+    grid-template-columns: 2fr 2fr ;
+    
+    grid-gap: 2%;
+    
+    margin: 20px auto;
+}
+    
+.work{
+    
+    width: 100%; color: black;
+ }
+    
+.work img{
+    
+    width: 600px;
+    
+    height: 400px;
+    
+    cursor: pointer;
+    
+    max-height: auto;
+    
+    border-radius: 10px;
+ }
+ .work img:hover{
+    cursor: pointer;
+    transform: translateY(-15px);
+    transition: all ease 0.5s;
+
+ }

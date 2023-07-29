@@ -1,0 +1,36 @@
+.samples{
+    flex-direction: column;
+        text-align: center;
+       background-color: #e4dcdc;  }
+      
+  .featured{
+      
+      width: 100%;
+      
+      display: grid;
+      
+      grid-template-columns: 4fr 4fr 4fr 4fr ;
+      
+      grid-gap: 2%;
+      
+      margin: 20px auto;
+  }
+      
+  .gallery{
+      
+      width: 100%; color: black;
+   }
+      
+  .gallery img{
+      
+      width: 300px;
+      
+      height: 300px;
+      
+      cursor: pointer;
+      
+      max-height: auto;
+      
+      border-radius: 10px;
+   }
+  
