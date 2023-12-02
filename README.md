@@ -1,6 +1,8 @@
 # Ecommerce-Website-Kiaan-Interiors
  An e-commerce website is one that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It facilitates the transaction between a buyer and seller
 
+ https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/8898770d-b93c-43fb-9d21-78304a2b31af
+
 ![Web capture_30-5-2023_223910_localhost](https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/5f5448bb-8bef-46e8-aa19-fd463caf020a)
 
 ![Web capture_31-5-2023_153713_localhost](https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/d0d547de-21a8-455c-a94f-5d9c6b3bac17)
