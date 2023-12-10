@@ -2,15 +2,6 @@
  An e-commerce website is one that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It facilitates the transaction between a buyer and seller
 
  
-![Web capture_30-5-2023_223910_localhost](https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/5f5448bb-8bef-46e8-aa19-fd463caf020a)
-
-![Web capture_31-5-2023_153713_localhost]()
-![Web capture_31-5-2023_154711_localhost]()
-![Web capture_31-5-2023_124753_localhost]()
-![Web capture_31-5-2023_124622_localhost]()
-![Web capture_31-5-2023_124553_localhost]()
-![Web capture_30-5-2023_233321_localhost]()
-
 
 
 # Vender-service-Management-System
@@ -20,7 +11,7 @@ In my Vendor Management project, I strategically designed and implemented a stre
 https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/8898770d-b93c-43fb-9d21-78304a2b31af
 
 ## Some Images:
-<img width="450px;"  src="https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/a26a6cfa-6d46-4297-987c-bb1e2c267deb"/>
+<img width="450px;"  src="https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/5f5448bb-8bef-46e8-aa19-fd463caf020a"/>
 <img width="450px;" src="https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/d0d547de-21a8-455c-a94f-5d9c6b3bac17"/>
 <img width="450px;" src="https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/26e68c7b-a208-490a-842f-61a41f89b5a2"/>
 <img width="450px;"  src="https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/cd8238c7-4fe4-421a-90cc-e7e8f2e5d0b"/>
