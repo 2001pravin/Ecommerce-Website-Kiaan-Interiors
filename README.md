@@ -1,12 +1,5 @@
 # Ecommerce-Website-Kiaan-Interiors
- An e-commerce website is one that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It facilitates the transaction between a buyer and seller
-
- 
-
-
-# Vender-service-Management-System
-In my Vendor Management project, I strategically designed and implemented a streamlined system, enhancing efficiency and collaboration in vendor interactions while leveraging my web development skills to create a seamless user experience
-
+ An e-commerce website is one that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It facilitates the transaction between a buyer and seller.
 ###  [DEMO] 
 https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095/8898770d-b93c-43fb-9d21-78304a2b31af
 
