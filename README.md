@@ -18,17 +18,14 @@ https://github.com/2001pravin/Ecommerce-Website-Kiaan-Interiors/assets/113687095
 - [Technologies Used](#technologies-used)
 
 ## Introduction
-In my Vendor Management project, I strategically designed and implemented a streamlined system, enhancing efficiency and collaboration in vendor interactions while leveraging my web development skills to create a seamless user experience.
-
-
+ An e-commerce website is one that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It facilitates the transaction between a buyer and seller.
+ 
 ## Technologies Used
-- React.js: A JavaScript library for building user interfaces.
 - HTML5 & CSS3: Markup and styling languages for building web pages.
 - JavaScript: A programming language for adding interactivity to web applications.
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
-- spring boot : Java, with Spring Boot for accelerated development and REST API for efficient communication, ensuring a robust and scalable architecture.
-- Hibernate :  establishes a robust database connection, ensuring seamless data management and retrieval with efficiency and precision.
-- spring security : Spring Security is implemented to enhance the security of the project.
+- Php : .
+- Mysql : .
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications
 
